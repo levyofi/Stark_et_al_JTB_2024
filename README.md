@@ -1,4 +1,4 @@
-# Seeking shelter: Thermoregulatory behavioral shifts in seasonal microhabitat choices among ectotherms living in extreme environments
+# State-dependent movement choices of desert lizards: the role of behavioral thermoregulation during summer and winter
 
 ## Journal of Thermal Biology
 
