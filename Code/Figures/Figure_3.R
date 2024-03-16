@@ -4,7 +4,7 @@ library(lubridate)
 #load the results
 library(ncdf4)
 df = read.csv("Data/categorical_data_for_statistics_1_min_filtered.csv")
-nc <- nc_open("Data/statistical_models_posterior.nc")
+nc <- nc_open("Data/trace_category_models_final.nc")
 
 # Print information about the file
 print(nc)
