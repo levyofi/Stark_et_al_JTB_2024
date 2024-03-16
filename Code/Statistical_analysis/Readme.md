@@ -16,5 +16,5 @@ which ptxas #check ptxas again - should point to the conda environment
 To run the model, activate the conda environment and simply run the python code:
 ```
 conda activate pymc_env_jax
-python ar1_model.py
+python simp3_final_model.py
 ```
