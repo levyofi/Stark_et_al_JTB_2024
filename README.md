@@ -1,6 +1,7 @@
 # State-dependent movement choices of desert lizards: the role of behavioural thermoregulation during summer and winter
 
-## Published in the Journal of Thermal Biology
+## Published in the Journal of Thermal Biology. 
+https://doi.org/10.1016/j.jtherbio.2024.103841
 
 _Gavin Stark, Liang Ma, Zhi-Gao Zeng, Wei-guo Du, Ofir Levy_
 
